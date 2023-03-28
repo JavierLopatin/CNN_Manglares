@@ -1,0 +1,21 @@
+Classes:
+1. A. germinans
+2. Mixto Rhizophora spp.
+3. Mixto L. racemosa, A. germinans y A. bicolor
+4. Mixto L. racemosa, A. germinans, A. bicolor, P. rhizophorae, R. mangle
+5. A. germinans y A. bicolor
+6. C. erectus
+7. L. racemosa
+8. Albina
+9. Arena/Playa
+10. Salinas
+11. Camaronera
+12. Arroz
+13. Maíz
+14. Fangales (Mudflats)
+15. Camino e infraestructura
+16. Cuerpo de agua
+17. Bosques galería (secundario latifoliado mixto)
+18. Helecho
+19. Potrero
+20. Otro
